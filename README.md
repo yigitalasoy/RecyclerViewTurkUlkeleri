@@ -14,7 +14,7 @@ Bu projede recycler view ile türk ülkeleri listelenmektedir ve card item'larda
 <br>
 <br>
 <br>
-<h3 id="Outputs">Outputs</h3>
+
 
 <p>
 <img src="https://raw.githubusercontent.com/yigitalasoy/RecyclerViewTurkUlkeleri/main/Screens/Ekran1.png" height="400" />
