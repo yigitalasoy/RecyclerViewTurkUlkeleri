@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="listItemLogoGenislik">120dp</dimen>
+    <dimen name="listItemLogoYukseklik">120dp</dimen>
+
+    <dimen name="detayActivityLogoGenislik">120dp</dimen>
+    <dimen name="detayActivityLogoYukseklik">120dp</dimen>
+    <dimen name="detayActivityTextMargin">25px</dimen>
+    <dimen name="detayActivityTextPunto">50px</dimen>
+    <dimen name="detayActivityAciklamaMargin">100px</dimen>
+
+    <dimen name="splashLogoGenislik">100dp</dimen>
+    <dimen name="splashLogoYukseklik">100dp</dimen>
+    <dimen name="splashLogoLeftMargin">280dp</dimen>
+
+
+    <dimen name="detayBayrakGenislik">160dp</dimen>
+    <dimen name="detayBayrakYukseklik">160dp</dimen>
+
+    <dimen name="devletlerLogoYukseklik">160dp</dimen>
+    <dimen name="baslikPunto">24sp</dimen>
+    <dimen name="listItemMargin">25px</dimen>
+
+</resources>

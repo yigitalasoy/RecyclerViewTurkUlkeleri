@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">H5190039_YigitcanAlasoyFinal</string>
+    <string name="internetKontrolAlertTitle">İnternet bağlantınız yok</string>
+    <string name="internetKontrolAlertMessage">Uygulamayı kullanmak için internete bağlayın</string>
+    <string name="internetKontrolAlertNegativeButtonText">Kapat</string>
+    <string name="internetKontrolAlertPositiveButtonText">İnterneti Aç</string>
+
+    <string name="cikisAlertTitle">Çıkış</string>
+    <string name="cikisAlertMessage">Çıkış yapmak istediğinize emin misiniz?</string>
+    <string name="cikisAlertNegativeButtonText">Çıkış</string>
+    <string name="cikisAlertPositiveButtonText">İptal</string>
+
+    <string name="baslikTxt">GÜNÜMÜZDEKİ TÜRK DEVLETLERİ</string>
+    <string name="ulkeAdiTxt">Ülke Adı:</string>
+    <string name="ulkeKurulusuTxt">Kuruluş:</string>
+    <string name="ulkeKurucusuTxt">Kurucusu:</string>
+    <string name="ulkeNufusTxt">Nüfus:</string>
+    <string name="ulkeBulunduguYerTxt">Bulunduğu Yer:</string>
+    <string name="ulkelerImgUrl">https://raw.githubusercontent.com/yigitalasoy/h5190039yigitcanalasoy/main/Resim/devletlerlogo.jpg</string>
+    <string name="progressDialogMessage">İşlem devam etmektedir. Lütfen bekleyiniz.</string>
+
+</resources>
