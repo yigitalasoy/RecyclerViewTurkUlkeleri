@@ -15,7 +15,7 @@ Bu projede recycler view ile türk ülkeleri listelenmektedir ve card item'larda
 <br>
 <br>
 
-
+## Outputs
 <p>
 <img src="https://raw.githubusercontent.com/yigitalasoy/RecyclerViewTurkUlkeleri/main/Screens/Ekran1.png" height="400" />
 <img src="https://raw.githubusercontent.com/yigitalasoy/RecyclerViewTurkUlkeleri/main/Screens/InternetAlert.png" height="400" />
@@ -43,7 +43,7 @@ Bu projede recycler view ile türk ülkeleri listelenmektedir ve card item'larda
 
 
 
-License
+## License
 --------
 
 
