@@ -14,7 +14,7 @@ Bu projede recycler view ile türk ülkeleri listelenmektedir ve card item'larda
 <br>
 <br>
 <br>
-<h2 id="Outputs">Outputs</h2>
+<h3 id="Outputs">Outputs</h3>
 
 <p>
 <img src="https://raw.githubusercontent.com/yigitalasoy/RecyclerViewTurkUlkeleri/main/Screens/Ekran1.png" height="400" />
@@ -30,7 +30,7 @@ Bu projede recycler view ile türk ülkeleri listelenmektedir ve card item'larda
 
 ## Clean Simple Architecture
 
-<img src="https://raw.githubusercontent.com/yigitalasoy/h5190039yigitcanalasoy/main/Resim/Mvc.png" height="400" />
+<img src="https://raw.githubusercontent.com/yigitalasoy/h5190039yigitcanalasoy/main/Resim/Mvc.png" height="300" />
 
 
 
